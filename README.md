@@ -1,0 +1,5 @@
+# Proposta-de-Arquitetura-para-o-sistema-Hestia
+
+Nesta proposta são retratados quais serão as definições de uma arquitetura de segurança para ser aplicada no sistema Hestia, de forma a atender as diretrizes de segurança de sistemas médicos, em especial às Resoluções CFM 1.821/2007, 2.227/2018 e 2.056/2013 do Conselho Federal de Medicina, à norma ABNT NBR ISO/IEC 27002:2013, à Lei Geral de Proteção de Dados (LGPD) e à Health Insurance Portability and Accountability Act (HIPAA – Lei de portabilidade e responsabilidade de provedores de saúde) (USA).
+
+O Hestia é um software criado para anamnese em deficiências sensoriais, voltada à neurologia infantil. A anamnese é definida como a 1ª entrevista realizada pelo profissional de saúde ao seu paciente. Nela, o profissional da saúde consegue obter as informações iniciais necessárias para obter uma melhor perspectiva do assunto. Este trabalho consiste em avaliar e recomendar as maneiras de manter e garantir a privacidade e segurança dos dados pessoais subsequentes da anamnese e assim traçando os próximos passos para programadores aplicarem ao sistema. 
